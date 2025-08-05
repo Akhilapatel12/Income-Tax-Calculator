@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Income Tax Calculator (New Regime) – FY 2025–26
+# Indian Income Tax Calculator (New Regime) – FY 2025–26
 
 A clean and responsive web application that allows individuals in India to quickly calculate their estimated income tax under the **New Tax Regime** for the financial year **2025–26**.
 
