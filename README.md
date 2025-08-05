@@ -9,7 +9,6 @@ This tool is ideal for salaried professionals, students, and developers looking 
 ##  Features
 
 -  Built using **HTML**, **CSS**, and **Vanilla JavaScript**
-- Implements standard deduction of ₹50,000
 -  Based on updated New Regime tax slabs (FY 2025–26)
 -  Instant calculation with real-time display
 -  Simple, intuitive, and mobile-friendly UI
