@@ -23,7 +23,7 @@ This tool is ideal for salaried professionals, students, and developers looking 
 
 ---
 
-## 📊 Tax Slabs – FY 2025–26 (New Regime)
+##  Tax Slabs – FY 2025–26 (New Regime)
 
 | Income Range (₹)         | Tax Rate     |
 |--------------------------|--------------|
